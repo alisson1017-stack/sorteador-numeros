@@ -20,8 +20,7 @@ A cada clique do botão "Sortear", os números são sorteados um a um e adiciona
 
 O front-end (HTML e CSS) foi feito pelo time da Alura, já o back-end (JavaScript) foi desenvolvido por mim.
 
-
-    O durante o desenvolvimento, utilizei Inteligência Artificial somente como ferramenta de pesquisa, a consultando somente quando eu precisava de algum comando que eu ainda não conhecia ou entender melhor o funcionamento de um que eu já estava usando.
+> O durante o desenvolvimento, utilizei Inteligência Artificial somente como ferramenta de pesquisa, a consultando somente quando eu precisava de algum comando que eu ainda não conhecia ou entender melhor o funcionamento de um que eu já estava usando.
 
 <p align="center">
 
